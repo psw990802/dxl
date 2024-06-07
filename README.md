@@ -5,3 +5,4 @@ Subscriber 노드 : 속도명령을 구독하고 모터를 구동
 
 하는 2개의 노드로 구성된 패키지
  
+결과영상 https://www.youtube.com/watch?v=kMTMchUlxas&ab_channel=swp
